@@ -55,7 +55,7 @@ Port 111 is dedicated to the Remote Procedure Call (RPC) portmapper service, whi
 
 SO the Wesbite Also says that IRC is running 
 
-![image.png](attachment:306b1064-8bbc-4a0b-beb7-7362ddf38a11:image.png)
+![image.png](image1.png)
 
 IRC is Internet Relay chat
 
