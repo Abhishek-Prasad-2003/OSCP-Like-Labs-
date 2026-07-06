@@ -98,7 +98,7 @@ gobuster dir -u  http://192.168.162.98:8080/   -w /usr/share/seclists/Discovery/
 
 We find nothing interesting here but , when we go the firefox to see the applicaion , we can find zookeeper , adn application for distributed application 
 
-!image.png
+
 
 Here we canb see that the hostname is “Pelican” , which could be a username , butr lets get back here after checking others.
 
